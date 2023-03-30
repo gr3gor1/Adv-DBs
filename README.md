@@ -1,7 +1,7 @@
 # Adv DBs
 Advanced Databases Project
 
-This repository contains the code for executing the queries required for the semester project of the Advanced Topics of Databases course. The additional file that appears can be used to create the dataframes and RDDs that we may need. Furthermore, snapshots are provided for some indicative times for executing the queries with one and two workers.
+This repository contains the code for executing the queries required for the semester project of the Advanced Topics of Databases course. The Yellow Taxi Trip Records dataset of 2022 is being used in this assignment. The additional file that appears can be used to create the dataframes and RDDs that we may need. Furthermore, snapshots are provided for some indicative times for executing the queries with one and two workers.
 
 
 * ### Using one worker
