@@ -1,10 +1,11 @@
 # Adv DBs
- Advanced Databases Project
+Advanced Databases Project
 
-To παρόν repository περιέχει τους κώδικες, για την πραγματοποιήση των ερωτημάτων, για την εξαμηνιαία εργασία του μαθήματος Προχωρημένα Θέματα Βάσεων Δεδομένων. Το επιπλεόν αρχείο, που εμφανίζεται, μπορεί να χρησιμοποιηθεί για τη δημιουργία των dataframes και RDDs που ίσως χρειαστούμε. Ακόμα στη συνέχεια, δίνονται τα στιγμιότυπα που αφορούν κάποιους ενδεικτικούς χρόνους, για την εκτέλεση των ερωτημάτων μ' έναν και δύο workers.
+This repository contains the code for executing the queries required for the semester project of the Advanced Topics in Databases course. The additional file that appears can be used to create the dataframes and RDDs that we may need. Furthermore, snapshots are provided for some indicative times for executing the queries with one and two workers.
 
-* Εκτέλεση μ' έναν worker
+
+* ### Using one worker
 ![image](https://user-images.githubusercontent.com/115941066/216767858-47f92b0e-52a6-40b2-95b7-218995d888c1.png)
 
-* Εκτέλεση με δύο workers
+* ### Using two workers
 ![image](https://user-images.githubusercontent.com/115941066/216767898-c4c80a3b-e2b5-4f44-a027-25209b2f948d.png)
